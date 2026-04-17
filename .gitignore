@@ -1,3 +1,4 @@
-*.keras
-Models/*.keras
->100MB
+# standard python ignores
+__pycache__/
+*.py[cod]
+*$py.class
